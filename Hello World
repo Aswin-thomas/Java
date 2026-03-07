@@ -1,0 +1,8 @@
+//First programm in Java
+
+import java.util.*;
+public class main{
+  public static void main(String[] arg){
+System.out.print("Hello World");
+  }
+}
